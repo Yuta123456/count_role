@@ -17,8 +17,8 @@ with open(filepath) as f:
             continue
         roles = line.split(" ")
         for role in roles:
-            # final(role(medium,11))
-            role, player = role[len("final(role("):-len("))")].split(',')
+            # role(11,medium)
+            player, role = role[len("role("):-len(")")].split(',')
             player = int(player)
             if player not in players:
                 players[player] = {}
@@ -35,6 +35,7 @@ else:
 
 for p in range(1, len(players)+1):
     player = "player{}".format(p)
+    print("player{} roles :{}".format(p, players[p]))
     fig = plt.figure()
     ax = fig.add_subplot(1, 1, 1,
                          title=player)
@@ -42,5 +43,4 @@ for p in range(1, len(players)+1):
     ax.set_title(player)
     ax.set_xlabel('role')
     ax.set_ylabel('freq')
-    print("./{}/{}.jpg".format(sys.argv[1][:-4], player), " saved")
-    fig.savefig("./{}/{}.jpg".format(sys.argv[1][:-4], player))
+    fig.savefig("./{}/{}.png".format(sys.argv[1][:-4], player))

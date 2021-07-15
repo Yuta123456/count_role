@@ -1,0 +1,63 @@
+Answer: 1
+role(11,medium) role(3,seer) role(12,wolf) role(10,wolf) role(5,madman) role(7,hunter) role(8,villager) role(4,villager) role(6,villager) role(2,villager) role(9,villager) role(1,villager)
+Answer: 2
+role(11,medium) role(3,seer) role(12,wolf) role(10,wolf) role(5,madman) role(2,hunter) role(8,villager) role(4,villager) role(6,villager) role(7,villager) role(9,villager) role(1,villager)
+Answer: 3
+role(11,medium) role(3,seer) role(12,wolf) role(10,wolf) role(5,madman) role(6,hunter) role(8,villager) role(4,villager) role(7,villager) role(2,villager) role(9,villager) role(1,villager)
+Answer: 4
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(10,hunter) role(8,villager) role(4,villager) role(6,madman) role(2,villager) role(12,villager) role(9,villager) role(1,villager)
+Answer: 5
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(2,hunter) role(8,villager) role(4,villager) role(6,madman) role(12,villager) role(10,villager) role(9,villager) role(1,villager)
+Answer: 6
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(10,hunter) role(8,villager) role(4,villager) role(6,villager) role(2,madman) role(12,villager) role(9,villager) role(1,villager)
+Answer: 7
+role(11,medium) role(5,seer) role(7,wolf) role(9,wolf) role(3,madman) role(10,hunter) role(8,villager) role(4,villager) role(6,villager) role(2,villager) role(12,villager) role(1,villager)
+Answer: 8
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(10,hunter) role(8,madman) role(4,villager) role(6,villager) role(2,villager) role(12,villager) role(9,villager) role(1,villager)
+Answer: 9
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(10,hunter) role(8,villager) role(4,villager) role(6,villager) role(2,villager) role(12,villager) role(9,madman) role(1,villager)
+Answer: 10
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(10,hunter) role(8,villager) role(4,madman) role(6,villager) role(2,villager) role(12,villager) role(9,villager) role(1,villager)
+Answer: 11
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(10,hunter) role(8,villager) role(4,villager) role(6,villager) role(2,villager) role(12,villager) role(9,villager) role(1,madman)
+Answer: 12
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(10,hunter) role(8,villager) role(4,villager) role(6,villager) role(2,villager) role(12,madman) role(9,villager) role(1,villager)
+Answer: 13
+role(11,medium) role(5,seer) role(7,wolf) role(9,wolf) role(3,madman) role(2,hunter) role(8,villager) role(4,villager) role(6,villager) role(12,villager) role(10,villager) role(1,villager)
+Answer: 14
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(2,hunter) role(8,villager) role(4,villager) role(6,villager) role(12,villager) role(10,madman) role(9,villager) role(1,villager)
+Answer: 15
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(2,hunter) role(8,villager) role(4,madman) role(6,villager) role(12,villager) role(10,villager) role(9,villager) role(1,villager)
+Answer: 16
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(2,hunter) role(8,madman) role(4,villager) role(6,villager) role(12,villager) role(10,villager) role(9,villager) role(1,villager)
+Answer: 17
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(2,hunter) role(8,villager) role(4,villager) role(6,villager) role(12,villager) role(10,villager) role(9,villager) role(1,madman)
+Answer: 18
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(2,hunter) role(8,villager) role(4,villager) role(6,villager) role(12,villager) role(10,villager) role(9,madman) role(1,villager)
+Answer: 19
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(2,hunter) role(8,villager) role(4,villager) role(6,villager) role(12,madman) role(10,villager) role(9,villager) role(1,villager)
+Answer: 20
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(6,hunter) role(8,villager) role(4,villager) role(2,madman) role(12,villager) role(10,villager) role(9,villager) role(1,villager)
+Answer: 21
+role(11,medium) role(5,seer) role(7,wolf) role(9,wolf) role(3,madman) role(6,hunter) role(8,villager) role(4,villager) role(2,villager) role(12,villager) role(10,villager) role(1,villager)
+Answer: 22
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(6,hunter) role(8,villager) role(4,madman) role(2,villager) role(12,villager) role(10,villager) role(9,villager) role(1,villager)
+Answer: 23
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(6,hunter) role(8,villager) role(4,villager) role(2,villager) role(12,villager) role(10,villager) role(9,villager) role(1,madman)
+Answer: 24
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(6,hunter) role(8,madman) role(4,villager) role(2,villager) role(12,villager) role(10,villager) role(9,villager) role(1,villager)
+Answer: 25
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(6,hunter) role(8,villager) role(4,villager) role(2,villager) role(12,villager) role(10,madman) role(9,villager) role(1,villager)
+Answer: 26
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(6,hunter) role(8,villager) role(4,villager) role(2,villager) role(12,villager) role(10,villager) role(9,madman) role(1,villager)
+Answer: 27
+role(11,medium) role(5,seer) role(7,wolf) role(3,wolf) role(6,hunter) role(8,villager) role(4,villager) role(2,villager) role(12,madman) role(10,villager) role(9,villager) role(1,villager)
+Answer: 28
+role(11,medium) role(5,seer) role(7,wolf) role(2,wolf) role(3,madman) role(10,hunter) role(8,villager) role(4,villager) role(6,villager) role(12,villager) role(9,villager) role(1,villager)
+Answer: 29
+role(11,medium) role(5,seer) role(7,wolf) role(2,wolf) role(3,madman) role(6,hunter) role(8,villager) role(4,villager) role(12,villager) role(10,villager) role(9,villager) role(1,villager)
+Answer: 30
+role(11,medium) role(5,seer) role(7,wolf) role(10,wolf) role(3,madman) role(2,hunter) role(8,villager) role(4,villager) role(6,villager) role(12,villager) role(9,villager) role(1,villager)
+Answer: 31
+role(11,medium) role(5,seer) role(7,wolf) role(10,wolf) role(3,madman) role(6,hunter) role(8,villager) role(4,villager) role(2,villager) role(12,villager) role(9,villager) role(1,villager)
+
